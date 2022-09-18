@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zzhezz
 - 👋 My real name is Meiyu. Nice to meet you all!
 - 👀 I’m interested in a lot of things!
-- 🌱 I’m currently learning cs50
-- 💞️ I’m looking to collaborate on NYU Bridge Program
+- 🌱 I’m currently learning NYU Bridge Program
+- 💞️ I’m looking to collaborate on Many many thing
 - 📫 How to reach me: lu5558762@gmail.com
 
 <!---
