@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @zzhezz
-- 👋 My real name is Meiyu. Nice to meet you all!
+👋 Hi, there 
+My name is Meiyu. Nice to meet you ~ 💋
+
 - 👀 I’m interested in C++/frond-end development!
 - 🌱 I’m currently a NYU MSCS student
 - 💞️ I’m looking to find an intern job in 2024 summer.
-- 📫 How to reach me: lu5558762@gmail.com
+
+📫 Reach me by email or LinkedIn! lu5558762@gmail.com|https://www.linkedin.com/in/meiyu-zhang-04885b24b/ 
 
 <!---
 zzhezz/zzhezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
