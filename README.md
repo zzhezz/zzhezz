@@ -1,6 +1,6 @@
 👋 Hi, there 
 
-       My name is Meiyu. Nice to meet you ~ 💋
+  My name is Meiyu. Nice to meet you ~ 💋
 
 - 👀 I’m interested in C++/frond-end development!
 - 🌱 I’m currently a NYU MSCS student
