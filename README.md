@@ -2,7 +2,7 @@
 
   My name is Meiyu. Nice to meet you ~ 💋
 
-- 👀 I’m interested in C++/frond-end development!
+- 👀 I’m interested in C++/ Frond-end development!
 - 🌱 I’m currently a NYU MSCS student
 - 💞️ I’m looking to find an intern job in 2024 summer.
 
