@@ -3,7 +3,7 @@
   My name is Meiyu. Nice to meet you ~ 💋
 
 - 👀 I’m interested in C++/ Frond-end development!
-- 🌱 I’m currently a NYU MSCS student
+- 🌱 I’m currently a first year graduate student in New York University Computer Science Program.
 - 💞️ I’m looking to find an intern job in 2024 summer.
 
 📫 Reach me by email or LinkedIn! lu5558762@gmail.com | https://www.linkedin.com/in/meiyu-zhang-04885b24b/ 
