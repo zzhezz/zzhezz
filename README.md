@@ -6,7 +6,7 @@
 - 🌱 I’m currently a first year graduate student in New York University Computer Science Program.
 - 💞️ I’m looking to find an intern job in 2024 summer.
 
-📫 Reach me by email or LinkedIn! lu5558762@gmail.com | https://www.linkedin.com/in/meiyu-zhang-04885b24b/ 
+📫 Reach me by email or LinkedIn! mz3601@nyu.edu | https://www.linkedin.com/in/meiyu-zhang-04885b24b/ 
 
 <!---
 zzhezz/zzhezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
