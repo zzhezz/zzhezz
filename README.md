@@ -2,7 +2,7 @@
 
   My name is Meiyu. Nice to meet you ~ 💋
 
-- 👀 I’m interested in Becomming a SDE!
+- 👀 I’m interested in becomming a SDE!
 - 🌱 I’m currently a first year graduate student in New York University Computer Science Program.
 - 💞️ I’m looking to find an intern job in 2024 summer.
 
