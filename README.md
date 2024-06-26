@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in becomming a SDE!
 - 🌱 I’m currently a first year graduate student in New York University Computer Science Program.
-- 💞️ I’m looking to find an intern job in 2024 summer.
+- 💞️ I’m a Microsoft swe Intern!
 
 📫 Reach me by email or LinkedIn! mz3601@nyu.edu | https://www.linkedin.com/in/meiyu-zhang-04885b24b/ 
 
